@@ -31,6 +31,17 @@
 - php
 - Node JS
 
+# BUSCAR DIRECCION DE DOMINIO
+```
+DNS --> RAIZ --> TLD --> REGISTRANTE --> AUTORITATIVO
+```
 
 
+## HOSTING
+Acceso a un panel
+
+## DOMINIO
+Creacion de una cuenta
+
+### Se deben ensalar mediante un DNS
 
